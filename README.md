@@ -14,6 +14,8 @@ Aqui você encontrará meus projetos e contribuições.
 - **Ferramentas de Extração de Dados**: Requests, BeautifulSoup, Selenium e PyAutoGUI
 - **Outras Ferramentas**: Git, Jupyter Notebook e VS Code
 
+![Linguagens](	https://github-readme-stats.vercel.app/api/top-langs/?username=JuTsgo01&theme=blue-green)
+
 ## 🌱 O que estou aprendendo/Fazendo atualmente
 
 - Machine Learning e LLM para predições
@@ -22,8 +24,7 @@ Aqui você encontrará meus projetos e contribuições.
 
 ## 📈 Estatísticas do GitHub
 
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JuTsgo01&show_icons=true&theme=radical)
-
+![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JuTsgo01&show_icons=true&theme=radical) 
 ## 📫 Como me encontrar
 
 - LinkedIn: [Seu LinkedIn](www.linkedin.com/in/clodoaldo-lucio-53a9701b3)
