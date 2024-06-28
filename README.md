@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**JuTsgo01/JuTsgo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Language](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![VSC](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-Here are some ideas to get you started:
+# Olá! Eu sou Clodoaldo Lucio, prazer. 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um analista de dados, atualmente focado em business. Atualmente estou focado em predições de custos, gastos e estoques, além de todos os outros dados.
+
+Aqui você encontrará meus projetos e contribuições.
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens de Programação**: Python e SQL (MySQL e SQLite)
+- **Ferramentas de Análise de Dados**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Power BI e Excel Avançado
+- **Ferramentas de Extração de Dados**: Requests, BeautifulSoup, Selenium e PyAutoGUI
+- **Outras Ferramentas**: Git, Jupyter Notebook e VS Code
+
+## 🌱 O que estou aprendendo/Fazendo atualmente
+
+- Machine Learning e LLM para predições
+- Análise e extração de dados
+- Visualização de Dados Avançada
+
+## 📈 Estatísticas do GitHub
+
+![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JuTsgo01&show_icons=true&theme=radical)
+
+## 📫 Como me encontrar
+
+- LinkedIn: [Seu LinkedIn](www.linkedin.com/in/clodoaldo-lucio-53a9701b3)
+- Email: clodoaldoulias@hotmail.com
