@@ -27,5 +27,5 @@ Aqui você encontrará meus projetos e contribuições.
 ![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JuTsgo01&show_icons=true&theme=radical) 
 ## 📫 Como me encontrar
 
-- LinkedIn: [Seu LinkedIn](www.linkedin.com/in/clodoaldo-lucio-53a9701b3)
+- LinkedIn: [Meu Linkedin](https://www.linkedin.com/in/clodoaldo-lucio-53a9701b3/)
 - Email: clodoaldoulias@hotmail.com
