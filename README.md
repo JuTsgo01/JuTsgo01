@@ -11,6 +11,7 @@ Aqui você encontrará meus projetos e contribuições.
 
 - **Linguagens de Programação**: Python e SQL (MySQL e SQLite)
 - **Ferramentas de Análise de Dados**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Power BI e Excel Avançado
+- **Data Viz**: Tableau (maior proficiência) e Power BI 
 - **Ferramentas de Extração de Dados**: Requests, BeautifulSoup, Selenium e PyAutoGUI
 - **Outras Ferramentas**: Git, Jupyter Notebook e VS Code
 
