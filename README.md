@@ -9,7 +9,8 @@ Aqui você encontrará meus projetos e contribuições.
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens de Programação**: Python e SQL (MySQL e SQLite)
+- **Linguagens de Programação**: Python e Java
+- **Banco de dados**: SQL: MySQL e SQLite; NoSQL: MongoDB
 - **Ferramentas de Análise de Dados**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Power BI e Excel Avançado
 - **Data Viz**: Tableau (maior proficiência) e Power BI 
 - **Ferramentas de Extração de Dados**: Requests, BeautifulSoup, Selenium e PyAutoGUI
